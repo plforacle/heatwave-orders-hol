@@ -19,7 +19,7 @@ In this lab, you will be guided through the following task:
 
 - An Oracle Trial or Paid Cloud Account
 - Some Experience with MySQL Shell
-- Completed Lab 2
+- Completed Lab 3
 
 ## Task 1: Connect to database using MySQL Shell
 

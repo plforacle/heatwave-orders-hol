@@ -23,17 +23,16 @@
           "title": "Lab 2: Create Compute with MySQL Shell",
           "filename": "../../create-compute-with-mysqlsh/create-compute-with-mysqlsh.md"
         },
-        {
-          "title": "Lab 4: Add HeatWave Cluster to the DB sytem",
-          "filename": "../../add-heatwave-cluster/add-heatwave-cluster.md"
-        },
                 
         {
           "title": "Lab 3: Upload data to Object Storage for HeatWave Lakehouse",
           "filename": "../../create-lakehouse-files/create-lakehouse-files.md"  
         },
 
-
+        {
+          "title": "Lab 4: Add HeatWave Cluster to the DB sytem",
+          "filename": "../../add-heatwave-cluster/add-heatwave-cluster.md"
+        },
         
         {
           "title": "Lab 5: Load data into HeatWave Cluster ",
