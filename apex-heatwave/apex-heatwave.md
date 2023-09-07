@@ -64,7 +64,7 @@ Test Rest Enabled
 
    ```bash
     <copy>SELECT store_name, order_count FROM mysql_customer_orders.store_orders
-order by order_count;</copy>
+order by order_count desc;</copy>
     ```
 2. APEX Visualization App
 
