@@ -16,7 +16,7 @@ In this final task of loading data we will load data into a table DELIVERY_VENDO
 
 - An Oracle Trial or Paid Cloud Account
 - Some Experience with MySQL Shell
-- Completed Lab 6
+- Completed Lab 7
 
 ## Task 1: Create the PAR Link for the "delivery_vendor" files
 

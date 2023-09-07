@@ -39,7 +39,8 @@ In this lab, you will be guided through the following steps:
 - Run queries
 - Load additional data
 - Use Oracle Analytics Cloud to analyze Lakehouse data
-- Build HeatWave ML with SQL
+- DEvelop LAMP Applications with HeatWave and Lakehouse
+- Build APEX application with HeatWave
 
 ### Prerequisites
 
@@ -54,6 +55,3 @@ You may now **proceed to the next lab**
 
 - **Contributors** - Abhinav Agarwal, Senior Principal Product Manager, Nick Mader, MySQL Global Channel Enablement & Strategy Manager
 - **Last Updated By/Date** - Perside Foster, MySQL Solution Engineering, September 2023
-
-
-[def]: videohub:VideoID
