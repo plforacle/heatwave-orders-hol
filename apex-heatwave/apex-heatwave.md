@@ -49,6 +49,27 @@ Using APEX, developers can quickly develop and deploy compelling apps that solve
    
     **Example** https://sql.dbtools.us-ashburn-1.oci.oraclecloud.com/20201005/ords/ocid1.databasetoolsconnection.oc1.iad.amaaaaaao27h4wiamnbgbmuznwvg4nenu4j7nzbecnvpmzgs2fkgiugwueyq/_/sql
 
+## Task 3 Create a “Rest Enabled SQL Services” in APEX App Builder
+
+![MDS](./images/apex_rest_enabled.png "apex rest")
+
+![MDS](./images/apex_rest_enabled_sql.png "apex rest")
+
+Test Rest Enabled
+![MDS](./images/apex_rest_enabled_sql.png "apex rest")
+
+## Task 4 Create an APEX application
+
+1. Query to use for Pie chart
+
+   ```bash
+    <copy>SELECT store_name, order_count FROM mysql_customer_orders.store_orders
+order by order_count;</copy>
+    ```
+2. APEX Visualization App
+
+    ![MDS](./images/apex_store_orders.png "apex rest")
+
 ## Learn More
 
 How to use the Oracle Database Tools Service to provide MySQL data to APEX - [APEX and the MySQL Database Service](https://asktom.oracle.com/pls/apex/asktom.search?oh=18245).
